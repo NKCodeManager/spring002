@@ -3,6 +3,7 @@
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("ss1111111111s");
+
+        System.out.println("测试GITHUB私人地址success ...");
     }
 }
